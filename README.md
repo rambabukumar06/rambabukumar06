@@ -1,4 +1,4 @@
-![logo](20250922_130408_0000.png)
+![logo](IMG_20250922_131511.png)
 <h1 align="center">Hi 👋, I'm Ram Babu Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt"coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
